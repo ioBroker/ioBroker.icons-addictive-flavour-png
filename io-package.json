@@ -1,9 +1,9 @@
 {
     "common": {
-        "name":         "icons-addictive-flavour-png",
-        "version":      "0.1.1",
-        "title":        "Addictive flavour icon set as PNG",
-        "desc":         {
+        "name": "icons-addictive-flavour-png",
+        "version": "0.1.1",
+        "title": "Addictive flavour icon set as PNG",
+        "desc": {
             "en": "Icon set for visualisation as PNG",
             "de": "Bildersatz für die Visualisierung als PNG",
             "ru": "Набор иконок для визуализации в PNG"
@@ -11,24 +11,27 @@
         "authors": [
             "bluefox <bluefox@ccu.io>"
         ],
-        "platform":     "javascript/Node.js",
-        "icon":         "icons-addictive-flavour-png.png",
-        "mode":         "none",
-        "keywords":     ["icons", "material design", "ioBroker"],
-        "extIcon":      "https://raw.githubusercontent.com/ioBroker/ioBroker.icons-addictive-flavour-png/master/admin/icons-addictive-flavour-png.png",
-        "readme":       "https://github.com/ioBroker/ioBroker.icons-addictive-flavour-png/blob/master/README.md",
-        "loglevel":     "info",
-        "dependencies": ["web"],
-        "enabled":      true,
-        "onlyWWW":      true,
-        "singleton":    true,
-        "localLink":    "%web_protocol%://%ip%:%web_port%/icons-addictive-flavour-png/index.html",
-		"type":         "vis",
-        "license":      "CC-BY"
+        "platform": "javascript/Node.js",
+        "icon": "icons-addictive-flavour-png.png",
+        "mode": "none",
+        "keywords": [
+            "icons",
+            "material design",
+            "ioBroker"
+        ],
+        "extIcon": "https://raw.githubusercontent.com/ioBroker/ioBroker.icons-addictive-flavour-png/master/admin/icons-addictive-flavour-png.png",
+        "readme": "https://github.com/ioBroker/ioBroker.icons-addictive-flavour-png/blob/master/README.md",
+        "loglevel": "info",
+        "dependencies": [
+            "web"
+        ],
+        "enabled": true,
+        "onlyWWW": true,
+        "singleton": true,
+        "localLink": "%web_protocol%://%ip%:%web_port%/icons-addictive-flavour-png/index.html",
+        "type": "visualization-icons",
+        "license": "CC-BY"
     },
-    "native": {
-
-    },
-    "objects": [
-    ]
+    "native": {},
+    "objects": []
 }
