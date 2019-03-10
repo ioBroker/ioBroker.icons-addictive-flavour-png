@@ -11,7 +11,7 @@ You can check all icons [here](ICONLIST.md).
 You can use the set for all of your projects for free and without any restrictions. You can freely use it for both your private and commercial projects, including software, online services, templates and themes. The set may not be resold, sublicensed, rented, transferred or otherwise made available for use. Please link to this article if you would like to spread the word.
 
 ## Quotation from Oliver Twardowski
-
+![Number of Installations](http://iobroker.live/badges/icons-addictive-flavour-png-installed.svg) ![Number of Installations](http://iobroker.live/badges/icons-addictive-flavour-png-stable.svg) 
 Motivation behind the design
 -----------------------------
 
