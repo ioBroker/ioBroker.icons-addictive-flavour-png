@@ -16,8 +16,7 @@
         "mode": "none",
         "keywords": [
             "icons",
-            "material design",
-            "ioBroker"
+            "material design"
         ],
         "extIcon": "https://raw.githubusercontent.com/ioBroker/ioBroker.icons-addictive-flavour-png/master/admin/icons-addictive-flavour-png.png",
         "readme": "https://github.com/ioBroker/ioBroker.icons-addictive-flavour-png/blob/master/README.md",
