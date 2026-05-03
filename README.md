@@ -45,4 +45,4 @@ Thanks a lot, Oliver
 
 ![preview_af_4.jpg](img/preview_af_4.jpg)
 
-
+[Older changelogs can be found there](CHANGELOG_OLD.md)
